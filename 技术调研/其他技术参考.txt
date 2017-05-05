@@ -11,3 +11,5 @@ Screen Capture
 window.find
 
 录制  window.MediaRecorder
+Vibration API: 震动
+remote-playback API https://www.w3.org/TR/remote-playback/
