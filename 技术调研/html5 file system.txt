@@ -1,0 +1,18 @@
+探索FileSystem API :https://www.html5rocks.com/zh/tutorials/file/filesystem/
+文件系统API概念：https://developer.mozilla.org/zh-CN/docs/WebGuide/API/File_System/Introduction
+
+API
+https://www.w3.org/TR/2012/WD-file-system-api-20120417/#using-localfilesystem
+
+https://developer.mozilla.org/en-US/docs/Web/API/LocalFileSystem
+
+quota Management:
+http://w3c.github.io/quota-api/
+https://developer.mozilla.org/en-US/docs/Web/API/StorageQuota
+
+
+filter: https://github.com/filerjs/filer
+IndexedDB, WebSQL实现
+
+https://github.com/ebidel/filer.js
+chrome fileSystem

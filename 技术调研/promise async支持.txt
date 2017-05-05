@@ -1,0 +1,14 @@
+promise
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+async
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+
+async:
+https://github.com/caolan/async
+https://www.npmjs.com/package/async
+
+
+https://www.npmjs.com/package/babel-plugin-transform-async-to-generator
+
+syntax-async-functions 和 transform-async-to-generator 插件

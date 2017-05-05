@@ -1,0 +1,13 @@
+手机电量：https://www.w3.org/TR/battery-status/
+
+通知： window.Notification
+
+Web Woker
+Service Workers
+WebSocket
+Canvas
+Page Visibility
+Screen Capture
+window.find
+
+录制  window.MediaRecorder

@@ -1,0 +1,3 @@
+兼容性参考：
+https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+https://www.w3.org/TR/IndexedDB-2/

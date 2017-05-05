@@ -1,0 +1,27 @@
+参考：
+vue-cli:https://github.com/vuejs/vue-cli
+VSCode拓展插件：https://github.com/varHarrie/Dawn-Blossoms/issues/10
+vscode的eslint支持html插件，检查html/vue文件不再是梦：https://zhuanlan.zhihu.com/p/24401049
+
+脚手架安装
+  1. npm install -g vue-cli
+  2. 打开某个目录 vue inti webpack [project name]
+  3. npm install
+  4. npm run dev
+       
+
+安装插件：
+vetur : Vue语法高亮
+https://marketplace.visualstudio.com/items?itemName=octref.vetur
+vueHelper : Vue2代码段（包括Vue2 api、vue-router2、vuex2）
+https://marketplace.visualstudio.com/items?itemName=oysun.vuehelper
+Code Runner 运行选中代码段（支持大量语言，包括Node）
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+Path Intellisense 路径完成提示
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+REST Client :发送REST风格的HTTP请求
+https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+JavaScript (ES6) code snippets ES6语法代码段
+https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+npm Intellisense 导入模块时，提示已安装模块名称
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense

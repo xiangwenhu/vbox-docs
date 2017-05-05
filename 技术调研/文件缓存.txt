@@ -1,0 +1,14 @@
+静态资源（JS/CSS）存储在localStorage有什么缺点？为什么没有被广泛应用
+https://www.zhihu.com/question/28467444
+
+Web移动端使用localStorage缓存Js和css文件
+
+MT是手机腾讯网前端团队开发维护的一个专注于移动端的、带有增量更新特色的js模块管理框架
+https://github.com/mtjs/mt
+
+app本地离线存储方案
+http://ask.dcloud.net.cn/article/166
+
+service Worker
+
+applicate cache
