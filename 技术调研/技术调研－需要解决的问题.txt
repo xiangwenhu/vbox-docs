@@ -40,3 +40,4 @@ https://github.com/think2011/localResizeIMG
       ○ 微博
 
   ● 桌面快捷方式
+  https://github.com/cubiq/add-to-homescreen
